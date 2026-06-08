@@ -142,12 +142,11 @@ Jermain Arrieta Ramirez
 Estudiante de Ingeniería de Sistemas
 
 ---
-
 ## 📸 Resultado
 
 | Imagen Original | Imagen Procesada |
 |---|---|
-| ![Original](data/01_raw/marte.jpg) | ![Procesada](data/03_primary/marte_processed.jpg) |
+| ![Original](docs/original.jpg) | ![Procesada](docs/processed.jpg) |
 
 ## ⭐ Repositorio
 
