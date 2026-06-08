@@ -61,7 +61,7 @@ si-image-processing-lab/
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/si-image-processing-lab.git
+git clone https://github.com/arrietaramirezjarol9-ui/si-image-processing-lab.git
 ```
 
 Ingresar al proyecto:
@@ -138,10 +138,16 @@ Este proyecto permitió reforzar conocimientos en:
 
 ## 👩‍💻 Autora
 
-Greissy Arrieta  
+Jermain Arrieta Ramirez  
 Estudiante de Ingeniería de Sistemas
 
 ---
+
+## 📸 Resultado
+
+| Imagen Original | Imagen Procesada |
+|---|---|
+| ![Original](data/01_raw/marte.jpg) | ![Procesada](data/03_primary/marte_processed.jpg) |
 
 ## ⭐ Repositorio
 
